@@ -1,0 +1,23 @@
+# ninja log v6
+10	671	7655684115579744	CMakeFiles/Lab6.dir/Task1/Base2NV.cpp.obj	bf2c985f82dd7a60
+427	852	7655705886107430	Lab6.exe	161775b09b652b2a
+4	301	7655684222677127	CMakeFiles/Lab6.dir/Task1/Derived2V.cpp.obj	937ad6860a89b235
+16	680	7655684115637813	CMakeFiles/Lab6.dir/Task1/Derived2NV.cpp.obj	587b93be89198d7f
+13	684	7655684115609209	CMakeFiles/Lab6.dir/Task1/Derived1NV.cpp.obj	611a2ac7bd8c9af5
+17	427	7655705882010025	CMakeFiles/Lab6.dir/main.cpp.obj	7530acc6a534eb4b
+6	719	7655684115542396	CMakeFiles/Lab6.dir/Task1/Base1NV.cpp.obj	4e79b9e4ca51baa0
+22	737	7655684115694468	CMakeFiles/Lab6.dir/Task1/Base1V.cpp.obj	c69f7ea12a2cb21f
+25	788	7655684115730869	CMakeFiles/Lab6.dir/Task1/Base2V.cpp.obj	8f2e3dc9027ebabd
+19	764	7655684115674170	CMakeFiles/Lab6.dir/Task1/Derived3NV.cpp.obj	4612089143e32549
+105	810	7655684116534731	CMakeFiles/Lab6.dir/Task1/Derived3V.cpp.obj	4da567028dfdcf11
+22	194	7655705882060751	CMakeFiles/Lab6.dir/Task2/Parallelepiped.cpp.obj	1e734da7d36c695f
+61	817	7655684116094269	CMakeFiles/Lab6.dir/Task1/Derived1V.cpp.obj	11b80841af93d439
+26	196	7655705882090805	CMakeFiles/Lab6.dir/Task2/Tetrahedron.cpp.obj	686d6049e92442cb
+29	209	7655705882119342	CMakeFiles/Lab6.dir/Task2/Sphere.cpp.obj	a6a29db12327183b
+27	406	7655720901164664	CMakeFiles/Lab6.dir/Task3/Sea.cpp.obj	447fa247be7a7de0
+24	415	7655720901127084	CMakeFiles/Lab6.dir/Task3/Gulf.cpp.obj	a1f056183d86eb1f
+21	427	7655720901107212	CMakeFiles/Lab6.dir/Task3/Bay.cpp.obj	950e51197aeca3f
+17	480	7655720901067558	CMakeFiles/Lab6.dir/main.cpp.obj	7530acc6a534eb4b
+480	582	7655720905692183	Lab6.exe	a0196c62b9c2da8
+16	421	7655720979477147	CMakeFiles/Lab6.dir/main.cpp.obj	7530acc6a534eb4b
+422	505	7655720983533304	Lab6.exe	a0196c62b9c2da8
